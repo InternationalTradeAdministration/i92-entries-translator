@@ -1,0 +1,4 @@
+python-lambda
+boto3
+datetime
+xlrd
