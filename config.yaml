@@ -12,4 +12,4 @@ description: Fetches i92 data, builds a single CSV document, and stores it in S3
 
 # dist_directory: dist
 timeout: 300
-memory_size: 128
+memory_size: 1024
