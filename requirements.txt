@@ -1,4 +1,5 @@
 python-lambda
-boto3
+azure-functions
+azure-storage
 datetime
 xlrd
